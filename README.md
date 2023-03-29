@@ -21,7 +21,7 @@ Documentação da API com Swagger
 A aplicação usa o Swagger para documentar as APIs da aplicação. Você pode acessar a documentação do Swagger em http://localhost:porta/swagger.
 
 
-A documentação da ainda está em construção, segue abaixo as informações que estão sendo aplicadas
+A documentação da ainda está em construção, segue abaixo as informações que estão sendo aplicadas:
 
 A lista de endpoints disponíveis na aplicação 
 Os verbos HTTP suportados por cada endpoint
